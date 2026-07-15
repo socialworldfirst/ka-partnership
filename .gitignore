@@ -1,0 +1,4 @@
+build_gate.py
+*.png
+.playwright-mcp/
+.DS_Store
